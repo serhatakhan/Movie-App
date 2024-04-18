@@ -47,7 +47,7 @@ This project is a movie application developed using **React Native**. It provide
 
 ## Preview
 
-
+https://github.com/serhatakhan/Movie-App/assets/147662915/a7e3401b-bcba-476d-9445-4cda67e63668
 
 
 
